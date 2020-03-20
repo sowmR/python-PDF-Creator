@@ -1,12 +1,14 @@
 # python-PDF-Creator
+
 Python code to create PDF using fpdf
 
 # Requirement
+
 pip
 
 pip install fpdf
 
-python 3
+pip install fpdf
 
 # To run the program
 
