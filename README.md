@@ -6,7 +6,7 @@ Python code to create PDF using fpdf
 
 pip
 
-pip install fpdf
+python 3
 
 pip install fpdf
 
