@@ -33,6 +33,7 @@ pdf.cell(50,10,'value3',0,0)
 pdf.cell(50,10,'Attribute4',0,0)
 pdf.cell(50,10,'value4',0,1)
 
+#now implement text colors
 pdf.ln(10)
 pdf.set_font('Arial', 'B', 14) 
 pdf.cell(100,10,'Section 2',1,1,'A')
